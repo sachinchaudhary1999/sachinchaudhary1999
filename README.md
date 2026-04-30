@@ -25,7 +25,7 @@
 - Features: authentication, cart system, order management
 - Tech: React, Node.js, MongoDB
 
-🔗 Repo: https://github.com/sachinchaudhary1999/tomato_food_delivery_app-main
+🔗 Repo: https://github.com/sachinchaudhary1999/BiteRush.git
 
 ---
 
