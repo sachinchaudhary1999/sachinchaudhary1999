@@ -32,7 +32,7 @@
 ### 🌐 Portfolio Website
 - Personal portfolio showcasing projects and skills
 
-🔗 Repo: https://github.com/sachinchaudhary1999/sachin-portfolio
+🔗 Repo: https://sachin-portfolio-black.vercel.app/
 
 ---
 
