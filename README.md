@@ -25,7 +25,7 @@
 - Features: authentication, cart system, order management
 - Tech: React, Node.js, MongoDB
 
-🔗 Repo: https://github.com/sachinchaudhary1999/BiteRush.git
+🔗 Repo: https://bite-rush-pearl.vercel.app/
 
 ---
 
