@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 Full Stack Developer focused on the MERN stack.
+* 🚀 Full Stack Developer focused on the MERN stack .
 * 💻 Building responsive, full-stack web applications.
 * 🌱 Continuously improving my skills in React.js, Node.js, Express.js, and MongoDB.
 * 🔐 Interested in authentication, REST APIs, secure application development, and scalable backend systems.
